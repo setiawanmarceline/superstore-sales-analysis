@@ -93,7 +93,7 @@ The workbook also contains a Returns sheet listing orders identified as returned
 - **Return analysis:** Return records matched to sales transactions using Order ID.
 - **Shipping analysis:** Shipping duration derived from Order Date and Ship Date.
 
-**Dataset source:** [Insert the original dataset source or provider.]
+**Dataset source:** [[Superstore Sales](https://public.tableau.com/app/learn/sample-data)]
 
 ## 🧹 6. Data Cleaning and Validation
 
@@ -180,7 +180,16 @@ The bands were organized in the following order:
 
 The custom sorting order keeps the categories in a logical sequence rather than relying on alphabetical sorting.
 
-**Discount-band thresholds:** [Insert the exact percentage ranges used in your workbook, if required for reproducibility.]
+### Discount-Band Thresholds
+
+| Discount Band | Discount Percentage |
+|---|---|
+| No Discount | 0% |
+| Low | Greater than 0% and up to 20% |
+| Medium | Greater than 20% and up to 40% |
+| High | Greater than 40% |
+
+These discount bands were created in Excel to categorize discount levels for profitability analysis. The thresholds follow the classification logic defined in the Excel formula.
 
 ### 7.4 Return Status
 
@@ -286,7 +295,7 @@ The Executive Overview helps management quickly assess overall performance, comp
 
 The map provides a state/province-level perspective that complements the regional charts rather than replacing them.
 
-**Dashboard link:** [Insert Tableau Public URL.]
+**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 9.2 Dashboard 2 — Product Profitability 🛍️
 
@@ -303,7 +312,7 @@ The map provides a state/province-level perspective that complements the regiona
 
 The dashboard helps users distinguish high-sales products from genuinely profitable products. It also supports the investigation of loss-making products and product groups whose sales contribution may not translate into satisfactory profit.
 
-**Dashboard link:** [Insert Tableau Public URL.]
+**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 9.3 Dashboard 3 — Discount Analysis 🏷️
 
@@ -320,7 +329,7 @@ The dashboard makes it easier to identify discount levels associated with weaker
 
 The findings can support more selective discount strategies that balance sales volume with profit contribution.
 
-**Dashboard link:** [Insert Tableau Public URL.]
+**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 9.4 Dashboard 4 — Customer Experience 🔄
 
@@ -337,7 +346,7 @@ The dashboard helps identify region-category combinations with relatively high r
 
 These patterns can guide further investigation into potential customer-experience issues. Return rates alone do not establish the reasons behind returns.
 
-**Dashboard link:** [Insert Tableau Public URL.]
+**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📈 10. Key Findings
 
@@ -612,10 +621,10 @@ Through this project, I applied data analytics techniques to a business problem 
 
 ## 🔗 15. Project Resources
 
-- **Tableau Public — Executive Overview:** [Insert link]
-- **Tableau Public — Product Profitability:** [Insert link]
-- **Tableau Public — Discount Analysis:** [Insert link]
-- **Tableau Public — Customer Experience:** [Insert link]
+- **Tableau Public — Executive Overview:** https://public.tableau.com/shared/76K5BX2J4?:display_count=n&:origin=viz_share_link
+- **Tableau Public — Product Profitability:** https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Tableau Public — Discount Analysis:** https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Tableau Public — Customer Experience:** https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - **PowerPoint Presentation:** [Insert link or file name]
 - **Project Repository:** [Insert GitHub repository link, if available]
 - **Dataset Source:** [Insert source link]
@@ -624,6 +633,6 @@ Through this project, I applied data analytics techniques to a business problem 
 
 This project was completed as part of my data analytics learning and portfolio development. It provided an opportunity to apply data preparation, analysis, visualization, and business communication skills to a practical sales-analysis scenario.
 
-**Data source acknowledgement:** [Insert the dataset provider's name and any attribution required by the original source.]
+**Data source acknowledgement:** [Superstore Sales](https://public.tableau.com/app/learn/sample-data)
 
 
