@@ -621,10 +621,10 @@ Through this project, I applied data analytics techniques to a business problem 
 
 ## 🔗 15. Project Resources
 
-- **Tableau Public — Executive Overview:** https://public.tableau.com/shared/76K5BX2J4?:display_count=n&:origin=viz_share_link
-- **Tableau Public — Product Profitability:** https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- **Tableau Public — Discount Analysis:** https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- **Tableau Public — Customer Experience:** https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Tableau Public — [Executive Overview](https://public.tableau.com/shared/76K5BX2J4?:display_count=n&:origin=viz_share_link)**
+- **Tableau Public — [Product Profitability](https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- **Tableau Public — [Discount Analysis](https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- **Tableau Public — [Customer Experience](https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **PowerPoint Presentation:** [Insert link or file name]
 - **Project Repository:** [Insert GitHub repository link, if available]
 - **Dataset Source:** [Insert source link]
