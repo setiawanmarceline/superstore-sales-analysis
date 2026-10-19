@@ -4,8 +4,8 @@
 **Project type:** Data Analytics Portfolio Project  
 **Analysis period:** 2023–2026  
 **Tools:** Microsoft Excel, Tableau Public  
-**Author:** [Your Name]  
-**Date completed:** [Month, Year]
+**Author:** Marceline Setiawan   
+**Date completed:** October 2026
 
 ---
 
