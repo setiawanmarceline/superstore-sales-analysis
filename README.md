@@ -241,18 +241,15 @@ superstore-sales-analysis/
 ├── README.md
 │
 ├── docs/
-│   └── project_documentation.md
+│   ├── project_documentation.md
+│   ├── SOW.pdf
+│   └── screenshots.md
 │
-├── screenshots/
-│   ├── executive_overview.png
-│   ├── product_profitability.png
-│   ├── discount_analysis.png
-│   └── customer_experience.png
+├── presentation/
+│   └── Superstore_Presentation.pdf
 │
-├── data/                     # Optional: shareable data only
-│   └── README.md              # Dataset source and access notes
-│
-└── LICENSE                    # Optional
+└── data/                     # Optional: shareable data only
+    └── README.md              # Dataset source and access notes
 ```
 
 **Folder guide:**
