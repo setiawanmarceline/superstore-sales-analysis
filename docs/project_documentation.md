@@ -295,7 +295,7 @@ The Executive Overview helps management quickly assess overall performance, comp
 
 The map provides a state/province-level perspective that complements the regional charts rather than replacing them.
 
-**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Dashboard link:** [Executive Overview](https://public.tableau.com/views/Superstore_17918771767440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 9.2 Dashboard 2 — Product Profitability 🛍️
 
@@ -312,7 +312,7 @@ The map provides a state/province-level perspective that complements the regiona
 
 The dashboard helps users distinguish high-sales products from genuinely profitable products. It also supports the investigation of loss-making products and product groups whose sales contribution may not translate into satisfactory profit.
 
-**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Dashboard link:** [Product Profitability](https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 9.3 Dashboard 3 — Discount Analysis 🏷️
 
@@ -329,7 +329,7 @@ The dashboard makes it easier to identify discount levels associated with weaker
 
 The findings can support more selective discount strategies that balance sales volume with profit contribution.
 
-**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Dashboard link:** [Discount Analysis](https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 9.4 Dashboard 4 — Customer Experience 🔄
 
@@ -346,7 +346,7 @@ The dashboard helps identify region-category combinations with relatively high r
 
 These patterns can guide further investigation into potential customer-experience issues. Return rates alone do not establish the reasons behind returns.
 
-**Dashboard link:** (https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Dashboard link:** [Customer Experience](https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📈 10. Key Findings
 
@@ -625,9 +625,9 @@ Through this project, I applied data analytics techniques to a business problem 
 - **Tableau Public — [Product Profitability](https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **Tableau Public — [Discount Analysis](https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **Tableau Public — [Customer Experience](https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-- **PowerPoint Presentation:** [View the PDF version](presentation/Superstore_Presentation.pdf)
-- **Project Repository:** (https://github.com/setiawanmarceline/superstore-sales-analysis)
-- **Dataset Source:** [Superstore Sales](https://public.tableau.com/app/learn/sample-data)
+- **PowerPoint Presentation: [View the PDF version](presentation/Superstore_Presentation.pdf)**
+- **Project Repository: [Repository](https://github.com/setiawanmarceline/superstore-sales-analysis)**
+- **Dataset Source: [Superstore Sales](https://public.tableau.com/app/learn/sample-data)**
 
 ## 🙏 16. Acknowledgements
 
