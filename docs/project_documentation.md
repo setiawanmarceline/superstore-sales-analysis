@@ -625,7 +625,7 @@ Through this project, I applied data analytics techniques to a business problem 
 - **Tableau Public — [Product Profitability](https://public.tableau.com/views/Superstore_17918771767440/ProductProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **Tableau Public — [Discount Analysis](https://public.tableau.com/views/Superstore_17918771767440/DiscountAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **Tableau Public — [Customer Experience](https://public.tableau.com/views/Superstore_17918771767440/ReturnsCustomerExperience?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-- **PowerPoint Presentation:** [Insert link or file name]
+- **PowerPoint Presentation:** presentation/Superstore Presentation.pdf
 - **Project Repository:** (https://github.com/setiawanmarceline/superstore-sales-analysis)
 - **Dataset Source:** [Superstore Sales](https://public.tableau.com/app/learn/sample-data)
 
