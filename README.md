@@ -288,6 +288,6 @@ By combining data preparation, calculated measures, visual analysis, and interac
 
 Want a concise walkthrough of the analysis and business insights?
 
-- 📄 **[View the PDF version](presentation/superstore_analysis.pdf)** 
+- 📄 **[View the PDF version](presentation/Superstore_Presentation.pdf)** 
 
 The presentation highlights the main findings, business implications, and recommended next steps.
